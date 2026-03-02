@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typing-Speed-Calculator/static/css/main.3b71cc2a.css",
+    "main.js": "/Typing-Speed-Calculator/static/js/main.3aac0931.js",
+    "static/js/453.beb6c6c5.chunk.js": "/Typing-Speed-Calculator/static/js/453.beb6c6c5.chunk.js",
+    "index.html": "/Typing-Speed-Calculator/index.html",
+    "main.3b71cc2a.css.map": "/Typing-Speed-Calculator/static/css/main.3b71cc2a.css.map",
+    "main.3aac0931.js.map": "/Typing-Speed-Calculator/static/js/main.3aac0931.js.map",
+    "453.beb6c6c5.chunk.js.map": "/Typing-Speed-Calculator/static/js/453.beb6c6c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.3aac0931.js"
+  ]
+}
